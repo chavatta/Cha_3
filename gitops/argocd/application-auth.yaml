@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/chavatta/FIAP_Challenge3.git
+    repoURL: https://github.com/chavatta/Cha_3.git
     targetRevision: main
     path: gitops/apps/auth
   destination:
