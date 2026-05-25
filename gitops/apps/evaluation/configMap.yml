@@ -12,4 +12,4 @@ data:
   TARGETING_SERVICE_URL: "http://targeting-service.targeting.svc.cluster.local"
   AWS_REGION: "us-east-1"
   # Deixe vazio se não usar SQS; preencha a URL da fila em produção
-  AWS_SQS_URL: "https://sqs.us-east-1.amazonaws.com/633853515534/togglemaster-events"
+  AWS_SQS_URL: "https://sqs.us-east-1.amazonaws.com/742792279914/togglemaster-events"
