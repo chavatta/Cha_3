@@ -18,3 +18,4 @@ spec:
                 name: analytics-service
                 port:
                   number: 8005
+
